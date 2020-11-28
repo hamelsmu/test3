@@ -1,8 +1,8 @@
-Hello :wave: @{_username_}!  Thank you for using fastpages!  
+Hello :wave: @hamelsmu!  Thank you for using fastpages!  
 
 ## Before you merge this PR
 
-1. Go to your [repository settings](https://github.com/{_username_}/{_repo_name_}/settings).
+1. Go to your [repository settings](https://github.com/hamelsmu/test3/settings).
 
 2. Scroll down to the GitHub Pages section.
 
@@ -13,13 +13,13 @@ Hello :wave: @{_username_}!  Thank you for using fastpages!
 
 ### What to Expect After Merging This PR
 
-- GitHub Actions will build your site, which will take 2-3 minutes to complete.  **This will happen anytime you push changes to the master branch of your repository.**  You can monitor the logs of this if you like on the [Actions tab of your repo](https://github.com/{_username_}/{_repo_name_}/actions).
+- GitHub Actions will build your site, which will take 2-3 minutes to complete.  **This will happen anytime you push changes to the master branch of your repository.**  You can monitor the logs of this if you like on the [Actions tab of your repo](https://github.com/hamelsmu/test3/actions).
 - Your GH-Pages Status badge on your README will eventually appear and be green, indicating your first sucessfull build.
-- You can monitor the status of your site in the GitHub Pages section of your [repository settings](https://github.com/{_username_}/{_repo_name_}/settings).
+- You can monitor the status of your site in the GitHub Pages section of your [repository settings](https://github.com/hamelsmu/test3/settings).
 
 If you are not using a custom domain, your website will appear at: 
 
-#### https://{_username_}.github.io{_baseurl_}
+#### https://hamelsmu.github.io/test3
 
 
 ## Optional: Using a Custom Domain
